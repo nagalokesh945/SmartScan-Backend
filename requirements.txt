@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+insightface
+onnxruntime
+opencv-python-headless
+psycopg2-binary
+pydantic
+websockets
+numpy
