@@ -1,8 +1,9 @@
 fastapi
 uvicorn
+insightface
 onnxruntime
 opencv-python-headless
 psycopg2-binary
 pydantic
 websockets
-numpy
+numpy<2.0.0
