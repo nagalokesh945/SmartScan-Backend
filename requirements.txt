@@ -1,7 +1,7 @@
 fastapi==0.110.0
 uvicorn==0.28.0
 insightface==0.7.3
-onnxruntime==1.17.1
+onnxruntime==1.26.0
 opencv-python-headless==4.9.0.80
 psycopg2-binary==2.9.9
 pydantic==2.6.4
